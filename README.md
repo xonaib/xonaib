@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zonaib Bokhari
 
-<!--
-**xonaib/xonaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 14 years of experience across C#/.NET, backend systems, Angular/TypeScript, distributed workflows, modernization, and production reliability.
 
-Here are some ideas to get you started:
+I'm currently open to Senior / Staff Software Engineering opportunities, including remote and relocation roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- C#, .NET, ASP.NET Core, Web APIs
+- Angular, TypeScript, JavaScript
+- SQL Server, Redis, MongoDB, Elasticsearch
+- Distributed systems, reliability, background processing
+- CI/CD, Docker, Azure DevOps
+- AI-assisted engineering, MCP tooling
+
+## Selected projects
+- **ng-loom** — Angular dependency graph/static analysis tooling
+- **ef-timelapse** — EF Core/database inspection tooling
+- **mcp-forms** — MCP server for form workflows
+- **ng-simple-table** — reusable Angular table library
+
+## Links
+- Portfolio: https://zonaibhassan.com
+- LinkedIn: https://linkedin.com/in/zonaib
