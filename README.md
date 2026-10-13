@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 14 years of experience across C#/.NET, backend systems, Angular/TypeScript, distributed workflows, modernization, and production reliability.
 
-I'm currently open to Senior / Staff Software Engineering opportunities, including remote and relocation roles.
+I'm currently open to Senior Software Engineering opportunities, including remote and relocation roles.
 
 ## What I work with
 - C#, .NET, ASP.NET Core, Web APIs
